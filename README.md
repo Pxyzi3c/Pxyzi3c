@@ -1,6 +1,7 @@
 ## Hi there 👋
+<--!
 **Pxyzi3c/Pxyzi3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 - 🔭 I’m currently working on a django + reactjs personal project
 - 🌱 I’m currently learning data analysis with python
 - 🤔 I’m looking for help with django
