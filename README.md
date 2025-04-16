@@ -2,7 +2,7 @@
 <!--
 **Pxyzi3c/Pxyzi3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m an aspirant data scientist with a background in full stack software development
+- 🔭 I’m an aspiring data professional, with a background in software dev
 - 🌱 I’m currently climbing the data field ladder
 - 🤔 I’m looking for help with python
 - 💬 Ask me about software development
